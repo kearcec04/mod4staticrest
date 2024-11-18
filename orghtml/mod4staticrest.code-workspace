@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "mod4staticrest",
+			"path": ".."
+		},
+		{
+			"name": "bootstrap-5.3.3-dist",
+			"path": "../../../bootstrap-5.3.3-dist"
+		}
+	],
+	"settings": {}
+}
